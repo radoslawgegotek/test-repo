@@ -1,1 +1,8 @@
 zmian07b
+naprawa - hotFix-001
+DODANO asystenta
+dodano interfejs graficzny
+easierApp
+nowa-zmiana02
+nowa-zmiana04
+nowa-zmiana05
