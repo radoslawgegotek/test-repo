@@ -1,6 +1,6 @@
 zmiana01 zmiana06
 zmiana02 zmiana02a
-zmiana03
+zmiana03 zmiana07c
 zmiana04
 zmiana05
 
