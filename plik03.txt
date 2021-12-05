@@ -9,3 +9,4 @@ nowa-zmiana05
 zmiana10
 zmiana12wClonie
 zmiana13
+zmiana14
