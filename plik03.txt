@@ -6,3 +6,4 @@ easierApp
 nowa-zmiana02
 nowa-zmiana04
 nowa-zmiana05
+zmiana10
