@@ -8,3 +8,4 @@ nowa-zmiana04
 nowa-zmiana05
 zmiana10
 zmiana11nowaGalaz
+zmiana33
